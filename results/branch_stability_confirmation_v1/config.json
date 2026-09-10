@@ -1,0 +1,33 @@
+{
+  "n": [
+    512,
+    2048,
+    8192
+  ],
+  "rho": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "replicates": 200,
+  "methods": [
+    "OLS",
+    "MOM3",
+    "Compensated",
+    "PairHuber1",
+    "PairHuber4",
+    "ArmHuber1",
+    "ArmHuber4"
+  ],
+  "p": 1.5,
+  "pareto_shape": 1.8,
+  "seed_base": 20260910,
+  "checks": {
+    "gradient_max_error": 6.31890789692946e-11,
+    "independent_quadrature_max_error": 7.568972658134054e-06,
+    "noiseless_slope_max_error": 9.855660162920875e-08
+  },
+  "workers": 4
+}

@@ -1,0 +1,12 @@
+{
+  "started_utc": "2026-09-10T01:14:26.324110+00:00",
+  "quadrature_orders": [
+    64,
+    128
+  ],
+  "configuration_count": 42,
+  "status": "completed",
+  "exit_code": 0,
+  "duration_seconds": 6.7596427500247955,
+  "finished_utc": "2026-09-10T01:14:33.083608+00:00"
+}

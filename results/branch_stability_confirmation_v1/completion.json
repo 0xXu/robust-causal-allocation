@@ -1,0 +1,9 @@
+{
+  "rows": 21000,
+  "datasets": 3000,
+  "independent_seed_groups": 600,
+  "elapsed_seconds": 4.196074667037465,
+  "solver_failures": [],
+  "minimum_regret": 1.0965672814222671e-12,
+  "maximum_regret": 0.08218287927267742
+}

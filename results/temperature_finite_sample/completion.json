@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "rows": 60000,
+  "sampling_cells": 12,
+  "method_cells": 60,
+  "exact_rows": 60,
+  "count_all_pairs_equal": true,
+  "kernel_complementarity": true,
+  "variance_component_identity": true,
+  "seconds": 0.7146127909654751
+}
